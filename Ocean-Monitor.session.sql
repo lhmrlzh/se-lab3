@@ -6,4 +6,4 @@ CREATE TABLE
         age INT NULL,
         role VARCHAR(255) NULL,
         unit VARCHAR(255) NULL
-    );
+    );  
