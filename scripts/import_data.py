@@ -1,7 +1,8 @@
 import os
 import pandas as pd
 import mysql.connector
-  
+ 
+ 
 DEBUG = False
 
 LABEL_TABLE = {
